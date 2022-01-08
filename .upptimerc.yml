@@ -6,8 +6,17 @@ sites:
   - name: Quoted Infotech
     url: https://www.quotedinfotech.com
     
-  - name: Gateway
+  - name: Gateway Service
     url: https://quessttechnologies.com/gateway/healthcheck
+
+  - name: Analytics Service
+    url: https://quessttechnologies.com/analytics/healthcheck
+
+  - name: Api Service
+    url: https://quessttechnologies.com/api/healthcheck
+
+  - name: Cron
+    url: https://quessttechnologies.com/cron/healthcheck
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
