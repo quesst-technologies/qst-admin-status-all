@@ -22,19 +22,19 @@
     "url": "https://quessttechnologies.com/analytics/healthcheck",
     "icon": "https://favicons.githubusercontent.com/quessttechnologies.com",
     "slug": "analytics-service",
-    "status": "down",
-    "uptime": "98.26%",
-    "uptimeDay": "98.26%",
-    "uptimeWeek": "98.26%",
-    "uptimeMonth": "98.26%",
-    "uptimeYear": "98.26%",
-    "time": 3296,
-    "timeDay": 3296,
-    "timeWeek": 3296,
-    "timeMonth": 3296,
-    "timeYear": 3296,
+    "status": "up",
+    "uptime": "69.72%",
+    "uptimeDay": "69.72%",
+    "uptimeWeek": "69.72%",
+    "uptimeMonth": "69.72%",
+    "uptimeYear": "69.72%",
+    "time": 2914,
+    "timeDay": 2914,
+    "timeWeek": 2914,
+    "timeMonth": 2914,
+    "timeYear": 2914,
     "dailyMinutesDown": {
-      "2022-01-08": 2
+      "2022-01-08": 41
     }
   },
   {
