@@ -24,6 +24,8 @@ sites:
   - name: Frontend Service
     url: https://quessttechnologies.com/frontend/healthcheck
 
+  - name: Notifications Service
+    url: https://quessttechnologies.com/notifications/healthcheck
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
