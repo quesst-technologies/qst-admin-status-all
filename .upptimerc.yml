@@ -26,6 +26,12 @@ sites:
 
   - name: Notifications Service
     url: https://quessttechnologies.com/notifications/healthcheck
+    
+  - name: Search Service
+    url: https://quessttechnologies.com/search/healthcheck
+    
+  - name: Socket Service
+    url: https://quessttechnologies.com/socket/healthcheck
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
