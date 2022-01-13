@@ -29,6 +29,9 @@ sites:
     
   - name: Socket Service
     url: https://quessttechnologies.com/socket/healthcheck
+    
+  - name: Admin API Service
+    url: https://quessttechnologies.com/api/healthcheck
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
