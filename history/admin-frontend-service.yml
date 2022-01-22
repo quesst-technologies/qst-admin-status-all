@@ -1,7 +1,7 @@
 url: https://quessttechnologies.com/frontend/healthcheck
-status: up
-code: 200
-responseTime: 242
-lastUpdated: 2022-01-21T23:06:10.708Z
+status: down
+code: 502
+responseTime: 2918
+lastUpdated: 2022-01-22T15:17:45.511Z
 startTime: Thu Jan 13 2022 07:14:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
