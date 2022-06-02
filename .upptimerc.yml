@@ -38,6 +38,9 @@ sites:
     
   - name: Admin Frontend Service
     url: https://admin.quessttechnologies.com/frontend/healthcheck
+    
+  - name: Quesst Web App (All in one) 
+    url: http://old.quessttechnologies.com/health-check
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
