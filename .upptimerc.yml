@@ -31,13 +31,13 @@ sites:
     url: https://quessttechnologies.com/socket/healthcheck
     
   - name: Admin API Service
-    url: https://quessttechnologies.com/api/healthcheck
+    url: https://admin.quessttechnologies.com/api/healthcheck
    
   - name: Admin Gateway Service
-    url: https://quessttechnologies.com/gateway/healthcheck
+    url: https://admin.quessttechnologies.com/gateway/healthcheck
     
   - name: Admin Frontend Service
-    url: https://quessttechnologies.com/frontend/healthcheck
+    url: https://admin.quessttechnologies.com/frontend/healthcheck
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
