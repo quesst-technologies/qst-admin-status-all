@@ -8,8 +8,8 @@
     "uptime": "25.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "55.44%",
-    "uptimeYear": "3.96%",
+    "uptimeMonth": "55.58%",
+    "uptimeYear": "3.97%",
     "time": 292,
     "timeDay": 146,
     "timeWeek": 125,
@@ -364,8 +364,7 @@
       "2023-03-10": 1440,
       "2023-03-09": 1440,
       "2023-03-08": 1440,
-      "2023-03-07": 1440,
-      "2023-03-06": 1440
+      "2023-03-07": 1440
     }
   },
   {
@@ -374,11 +373,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/quessttechnologies.com.ico",
     "slug": "analytics-service",
     "status": "up",
-    "uptime": "25.55%",
+    "uptime": "25.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "55.44%",
-    "uptimeYear": "3.96%",
+    "uptimeMonth": "55.58%",
+    "uptimeYear": "3.97%",
     "time": 20,
     "timeDay": 22,
     "timeWeek": 21,
@@ -733,8 +732,7 @@
       "2023-03-10": 1440,
       "2023-03-09": 1440,
       "2023-03-08": 1440,
-      "2023-03-07": 1440,
-      "2023-03-06": 1440
+      "2023-03-07": 1440
     }
   },
   {
@@ -746,8 +744,8 @@
     "uptime": "25.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "55.44%",
-    "uptimeYear": "3.96%",
+    "uptimeMonth": "55.58%",
+    "uptimeYear": "3.97%",
     "time": 20,
     "timeDay": 22,
     "timeWeek": 20,
@@ -1102,8 +1100,7 @@
       "2023-03-10": 1440,
       "2023-03-09": 1440,
       "2023-03-08": 1440,
-      "2023-03-07": 1440,
-      "2023-03-06": 1440
+      "2023-03-07": 1440
     }
   },
   {
@@ -1112,11 +1109,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/quessttechnologies.com.ico",
     "slug": "cron-service",
     "status": "up",
-    "uptime": "25.55%",
+    "uptime": "25.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "55.44%",
-    "uptimeYear": "3.96%",
+    "uptimeMonth": "55.58%",
+    "uptimeYear": "3.97%",
     "time": 20,
     "timeDay": 24,
     "timeWeek": 21,
@@ -1471,8 +1468,7 @@
       "2023-03-10": 1440,
       "2023-03-09": 1440,
       "2023-03-08": 1440,
-      "2023-03-07": 1440,
-      "2023-03-06": 1440
+      "2023-03-07": 1440
     }
   },
   {
@@ -1481,11 +1477,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/quessttechnologies.com.ico",
     "slug": "email-service",
     "status": "up",
-    "uptime": "25.55%",
+    "uptime": "25.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "55.44%",
-    "uptimeYear": "3.96%",
+    "uptimeMonth": "55.58%",
+    "uptimeYear": "3.97%",
     "time": 20,
     "timeDay": 22,
     "timeWeek": 20,
@@ -1840,8 +1836,7 @@
       "2023-03-10": 1440,
       "2023-03-09": 1440,
       "2023-03-08": 1440,
-      "2023-03-07": 1440,
-      "2023-03-06": 1440
+      "2023-03-07": 1440
     }
   },
   {
@@ -1853,8 +1848,8 @@
     "uptime": "14.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "55.44%",
-    "uptimeYear": "3.96%",
+    "uptimeMonth": "55.58%",
+    "uptimeYear": "3.97%",
     "time": 21,
     "timeDay": 22,
     "timeWeek": 21,
@@ -2209,8 +2204,7 @@
       "2023-03-10": 1440,
       "2023-03-09": 1440,
       "2023-03-08": 1440,
-      "2023-03-07": 1440,
-      "2023-03-06": 1440
+      "2023-03-07": 1440
     }
   },
   {
@@ -2220,17 +2214,18 @@
     "slug": "notifications-service",
     "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "40.34%",
-    "uptimeWeek": "54.10%",
-    "uptimeMonth": "89.44%",
-    "uptimeYear": "99.12%",
+    "uptimeDay": "40.14%",
+    "uptimeWeek": "53.51%",
+    "uptimeMonth": "89.30%",
+    "uptimeYear": "99.11%",
     "time": 20,
-    "timeDay": 21,
+    "timeDay": 22,
     "timeWeek": 19,
     "timeMonth": 20,
     "timeYear": 20,
     "dailyMinutesDown": {
-      "2024-03-04": 840,
+      "2024-03-05": 38,
+      "2024-03-04": 862,
       "2024-03-03": 688,
       "2024-03-02": 742,
       "2024-03-01": 543,
@@ -2244,25 +2239,26 @@
     "url": "https://quessttechnologies.com/search/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/quessttechnologies.com.ico",
     "slug": "search-service",
-    "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "66.95%",
-    "uptimeWeek": "61.14%",
-    "uptimeMonth": "91.06%",
-    "uptimeYear": "99.25%",
+    "status": "down",
+    "uptime": "99.66%",
+    "uptimeDay": "67.13%",
+    "uptimeWeek": "61.74%",
+    "uptimeMonth": "91.20%",
+    "uptimeYear": "99.27%",
     "time": 20,
     "timeDay": 18,
     "timeWeek": 20,
     "timeMonth": 20,
     "timeYear": 20,
     "dailyMinutesDown": {
+      "2024-03-05": 0,
       "2024-03-04": 474,
       "2024-03-03": 598,
       "2024-03-02": 619,
       "2024-03-01": 652,
       "2024-02-29": 593,
       "2024-02-28": 563,
-      "2024-02-27": 415
+      "2024-02-27": 354
     }
   },
   {
@@ -2270,19 +2266,20 @@
     "url": "https://quessttechnologies.com/socket/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/quessttechnologies.com.ico",
     "slug": "socket-service",
-    "status": "down",
+    "status": "up",
     "uptime": "25.31%",
-    "uptimeDay": "78.48%",
-    "uptimeWeek": "86.24%",
+    "uptimeDay": "77.43%",
+    "uptimeWeek": "85.65%",
     "uptimeMonth": "49.05%",
     "uptimeYear": "3.43%",
     "time": 19,
-    "timeDay": 20,
+    "timeDay": 19,
     "timeWeek": 19,
     "timeMonth": 19,
     "timeYear": 19,
     "dailyMinutesDown": {
-      "2024-03-04": 303,
+      "2024-03-05": 37,
+      "2024-03-04": 325,
       "2024-03-03": 228,
       "2024-03-02": 203,
       "2024-03-01": 163,
@@ -2645,8 +2642,7 @@
       "2023-03-10": 1440,
       "2023-03-09": 1440,
       "2023-03-08": 1440,
-      "2023-03-07": 1440,
-      "2023-03-06": 1440
+      "2023-03-07": 1440
     }
   },
   {
@@ -2666,7 +2662,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-04": 1418,
+      "2024-03-05": 38,
+      "2024-03-04": 1440,
       "2024-03-03": 1440,
       "2024-03-02": 1440,
       "2024-03-01": 1440,
@@ -3029,8 +3026,7 @@
       "2023-03-10": 1440,
       "2023-03-09": 1440,
       "2023-03-08": 1440,
-      "2023-03-07": 1440,
-      "2023-03-06": 1440
+      "2023-03-07": 1440
     }
   },
   {
@@ -3050,7 +3046,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-04": 1418,
+      "2024-03-05": 38,
+      "2024-03-04": 1440,
       "2024-03-03": 1440,
       "2024-03-02": 1440,
       "2024-03-01": 1440,
@@ -3413,8 +3410,7 @@
       "2023-03-10": 1440,
       "2023-03-09": 1440,
       "2023-03-08": 1440,
-      "2023-03-07": 1440,
-      "2023-03-06": 1440
+      "2023-03-07": 1440
     }
   },
   {
@@ -3423,7 +3419,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin.quessttechnologies.com.ico",
     "slug": "admin-frontend-service",
     "status": "down",
-    "uptime": "13.01%",
+    "uptime": "13.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -3434,7 +3430,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-04": 1418,
+      "2024-03-05": 38,
+      "2024-03-04": 1440,
       "2024-03-03": 1440,
       "2024-03-02": 1440,
       "2024-03-01": 1440,
@@ -3797,8 +3794,7 @@
       "2023-03-10": 1440,
       "2023-03-09": 1440,
       "2023-03-08": 1440,
-      "2023-03-07": 1440,
-      "2023-03-06": 1440
+      "2023-03-07": 1440
     }
   },
   {
@@ -3818,7 +3814,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-04": 1418,
+      "2024-03-05": 38,
+      "2024-03-04": 1440,
       "2024-03-03": 1440,
       "2024-03-02": 1440,
       "2024-03-01": 1440,
@@ -4181,8 +4178,7 @@
       "2023-03-10": 1440,
       "2023-03-09": 1440,
       "2023-03-08": 1440,
-      "2023-03-07": 1440,
-      "2023-03-06": 1440
+      "2023-03-07": 1440
     }
   }
 ]
