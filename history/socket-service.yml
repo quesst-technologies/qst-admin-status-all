@@ -1,7 +1,7 @@
 url: https://quessttechnologies.com/socket/healthcheck
-status: up
-code: 200
-responseTime: 33
-lastUpdated: 2024-03-09T11:23:04.139Z
+status: down
+code: 429
+responseTime: 21
+lastUpdated: 2024-03-09T12:07:27.693Z
 startTime: 2022-01-08T07:46:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
