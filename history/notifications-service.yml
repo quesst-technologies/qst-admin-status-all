@@ -1,7 +1,7 @@
 url: https://quessttechnologies.com/notifications/healthcheck
-status: up
-code: 200
-responseTime: 36
-lastUpdated: 2024-03-10T03:28:47.425Z
+status: down
+code: 429
+responseTime: 2
+lastUpdated: 2024-03-10T04:43:29.432Z
 startTime: 2022-01-08T07:45:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
