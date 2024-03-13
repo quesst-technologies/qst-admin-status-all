@@ -1,7 +1,7 @@
 url: https://quessttechnologies.com/gateway/healthcheck
-status: down
-code: 404
-responseTime: 94
-lastUpdated: 2024-03-13T14:19:52.280Z
+status: up
+code: 200
+responseTime: 56
+lastUpdated: 2024-03-13T14:32:32.581Z
 startTime: 2022-01-08T07:17:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
