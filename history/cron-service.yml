@@ -1,7 +1,7 @@
 url: https://quessttechnologies.com/cron/healthcheck
-status: down
-code: 404
-responseTime: 34
-lastUpdated: 2024-03-13T14:20:00.139Z
+status: up
+code: 200
+responseTime: 11
+lastUpdated: 2024-03-13T14:32:39.181Z
 startTime: 2022-01-08T07:38:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
